@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/paulchuang/Pablo/PythonLab/dummy5minutes.py", line 17, in <module>
+    time.sleep(interval)
+KeyboardInterrupt
