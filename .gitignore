@@ -2,3 +2,6 @@
 **/__pycache__
 **/*.rdb
 **/*.pyc
+**/whisper_venv/
+**/*.m4a
+speechToText/KCLEE.txt
